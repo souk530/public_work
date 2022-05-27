@@ -3,7 +3,7 @@ from unittest import result
 import requests
 import time
 
-url = 'https://api.ekispert.jp/v1/json/search/course/extreme?key=test_ZYP9MAgUaxq&searchType=arrival&conditionDetail=T11211132323191:F3321122120000:A23121141:&answerCount=2&date=20220520&time=0800&viaList='
+url = ''
 def trainsearch(worker_code, office_code):
 
     a_code = worker_code
